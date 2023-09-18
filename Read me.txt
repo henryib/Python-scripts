@@ -1,2 +1,0 @@
-This script allows for the removal of any HTML tag from a document 
-Usage: python remove_html_tags.py <html_file> <tag_to_remove>
